@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "stefun.space",
+    baseUrl: "https://stefunspace.github.io/anarres/",
     ignorePatterns: ["admin", "private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
