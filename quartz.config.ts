@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "stefun.space",
     ignorePatterns: ["admin", "private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
