@@ -3,7 +3,7 @@ title: home
 description: landing page of my homepage
 created: 2026-01-10
 updated:
-publish: false
+publish: true
 draft: false
 tags:
 aliases:
