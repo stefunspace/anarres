@@ -6,7 +6,7 @@ description:
 created: 2026-01-12
 updated:
 publish: false
-draft: false
+draft: true
 ---
 Tracking here all the tools, etc. I use day-to-day
 
