@@ -1,7 +1,7 @@
 ---
 tags:
   - evergreens
-title:
+title: digital garden
 description:
 created: 2026-01-13
 updated:
