@@ -5,7 +5,7 @@ title: colophon
 description:
 created: 2026-01-10
 updated:
-publish: false
+publish: true
 draft: false
 ---
 ## approach

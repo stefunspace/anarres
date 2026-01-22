@@ -5,7 +5,7 @@ title: about
 description:
 created: 2026-01-10
 updated:
-publish: false
+publish: true
 draft: false
 ---
 Lifelong student and optimist living in the Pacific Northwest.
