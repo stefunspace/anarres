@@ -1,7 +1,7 @@
 ---
 tags:
-  - evergreens
-title:
+  - meta
+title: /inventory
 description:
 created: 2026-01-12
 updated:

@@ -1,7 +1,7 @@
 ---
 tags:
   - meta
-title: colophon
+title: /colophon
 description:
 created: 2026-01-10
 updated:

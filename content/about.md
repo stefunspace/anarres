@@ -1,7 +1,7 @@
 ---
 tags:
   - meta
-title: about
+title: /about
 description:
 created: 2026-01-10
 updated:

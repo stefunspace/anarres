@@ -8,7 +8,7 @@ draft: false
 tags:
 aliases:
 ---
-Welcome to my [[digital garden|digital garden]]. Think of this site as my own, personal wiki where I publish [[Hypertext|interconnected notes]] on various topics.
+Welcome to my own space on the internet. Think of this site as a personal wiki and collection of random thoughts and notes.
 
 Check out these places to start:
 
