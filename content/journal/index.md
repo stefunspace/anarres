@@ -2,6 +2,6 @@
 title:
 tags:
 created:
-publish:
+publish: false
 draft:
 ---
