@@ -8,12 +8,11 @@ draft: false
 tags:
 aliases:
 ---
-Welcome to my [[A digital garden consists of ideas that grow over time|digital garden]]. Think of this site as my own, personal wiki where I publish [[Hypertext|interconnected notes]] on various topics.
+Welcome to my [[digital garden|digital garden]]. Think of this site as my own, personal wiki where I publish [[Hypertext|interconnected notes]] on various topics.
 
 Check out these places to start:
 
 - What is this all [[about]]?
 - What am I focusing [[now]]?
-- Take a look at my wiki for notes on areas of interest.
 
-Check out #reviews for movie reviews.
+Check out [[tags/movies]] for movie reviews.

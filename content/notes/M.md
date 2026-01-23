@@ -18,6 +18,7 @@ year: 1931
 last: 2023-11-09
 tags:
   - reviews
+  - movies
 publish: true
 ---
 

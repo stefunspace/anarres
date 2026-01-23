@@ -1,7 +1,7 @@
 ---
 tags:
   - evergreens
-title: digital garden
+title: A digital garden consists of ideas that grow over time
 description:
 created: 2026-01-13
 updated:
