@@ -35,6 +35,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
 Component.Explorer({
+  title: "",
   filterFn: (node) => {
     // set containing names of everything you want to filter out
     const omit = new Set(["notes", "writings"])
