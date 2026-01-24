@@ -1,9 +1,12 @@
 ---
 title: /micro
 tags:
-  - journal
-created: 2026-01-22
+  - slashes
+created: 2026-01-10
 publish: true
 draft:
 ---
-# 
+# 2026-01-24 guided
+
+
+# 2026-01-10  
