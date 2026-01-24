@@ -8,16 +8,6 @@ draft: false
 tags:
 aliases:
 ---
-Welcome to my own space on the internet. Think of this site as a personal wiki and collection of random, interconnected posts and notes.
+Welcome to my own space on the internet. Think of this site as a personal wiki and collection of random, interconnected [[writings/|posts]] and [[tags/notes|notes]].
 
-Check out these places to start:
-
-- [[about]] - what this site is about
-- [[now]] - what I am focusing on now
-- [[micro]] - what I am journaling
-- [[content/writings/]] - what I am writing
-- [[tags/notes]] - what I am taking notes on
-- [[tags/movies]] - what I am watching
-- [[tags/books]] - what I am reading
-
-
+I take notes on [[tags/movies|movies]] and [[tags/books|books]]. Click around and get lost in my brain.
