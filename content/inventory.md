@@ -1,7 +1,7 @@
 ---
 tags:
-  - meta
-title: /inventory
+  - slashes
+title:
 description:
 created: 2026-01-12
 updated:

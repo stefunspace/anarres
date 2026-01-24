@@ -15,4 +15,3 @@ Check out these places to start:
 - What is this all [[about]]?
 - What am I focusing [[now]]?
 
-Check out [[tags/movies]] for movie reviews.

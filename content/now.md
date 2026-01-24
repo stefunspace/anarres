@@ -1,10 +1,12 @@
 ---
-title: /now
 tags:
-  - meta
-created: 2026-01-22
+  - slashes
+title: /now
+description:
+created: 2026-01-10
+updated:
 publish: true
-draft:
+draft: false
 ---
 **Focusing** on my physical and mental well-being. I am exercising regularly (cardio and strength training) and setting boundaries at work. 
 
