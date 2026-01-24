@@ -1,7 +1,7 @@
 ---
 tags:
   - slashes
-title: /now
+title: now
 description:
 created: 2026-01-10
 updated:

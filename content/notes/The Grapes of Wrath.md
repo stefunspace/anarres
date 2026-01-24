@@ -22,7 +22,7 @@ We don't know how this book ends, but we can only assume that the suffering cont
 
 The focus on the human element in this book has left a lasting impression on me. Every migrant was taken advantage of, and you can feel the same what the Joad family must have felt: sadness, misery, and hatred. 
 
-# Details
+## Details
 
 - The Grapes of Wrath by John Steinbeck
 - ISBN: [978-0-14-200066-3](https://en.wikipedia.org/wiki/Special:BookSources?isbn=978-0-14-200066-3) 
