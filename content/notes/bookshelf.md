@@ -8,9 +8,6 @@ draft: false
 ---
 A non exhaustive collection of books I have in my personal library that I have read, am reading currently or planning to read. 
 
-> [!Definition] Tsundoku
-> Is the phenomenon of acquiring reading materials but letting them pile up in one's home without reading them.
-
 ## 2026
 
 ### Read
@@ -39,6 +36,10 @@ A non exhaustive collection of books I have in my personal library that I have r
 - A People's History of the United States - Howard Zinn
 
 ___
+
+## Tsundoku 
+
+> Is the phenomenon of acquiring reading materials but letting them pile up in one's home without reading them.
 
 The books listed below are a collection of recommendations from various fora, friends, and family.
 
