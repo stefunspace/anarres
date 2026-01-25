@@ -1,8 +1,8 @@
 ---
 title: The Grapes of Wrath
 tags:
-  - books
   - reviews
+  - books
 created: 2026-01-24
 publish: true
 draft:

@@ -3,8 +3,8 @@ title: bookshelf
 tags:
   - slashes
 created: 2026-01-24
-publish:
-draft: true
+publish: true
+draft: false
 ---
 A non exhaustive collection of books I have in my personal library that I have read, am reading currently or planning to read. 
 

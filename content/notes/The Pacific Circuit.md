@@ -1,8 +1,8 @@
 ---
 title: The Pacific Circuit
 tags:
-  - books
   - reviews
+  - books
 created: 2026-01-24
 publish: true
 draft:

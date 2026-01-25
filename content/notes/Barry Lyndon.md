@@ -1,8 +1,8 @@
 ---
 title: Barry Lyndon
 tags:
-  - movies
   - reviews
+  - movies
 created: 2026-01-24
 publish: true
 draft:
