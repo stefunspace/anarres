@@ -1,7 +1,7 @@
 ---
 title: bookshelf
 tags:
-  - slashes
+  - meta
 created: 2026-01-24
 publish: true
 draft: false
