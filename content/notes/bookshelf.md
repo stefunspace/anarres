@@ -21,7 +21,26 @@ A non exhaustive collection of books I have in my personal library that I have r
 | [[The Pacific Circuit]] | Alexis Madrigal | ★★         |
 | [[The Grapes of Wrath]] | John Steinbeck  | ★★★★★      |
 
-## To Read
+### To Read
+
+#### Fiction
+
+- Never Let Me Go - Kazuo Ishiguro
+- Kafka on the Shore - Haruki Murakami
+- Blood Meridian - Cormac McCarthy
+- The Year of Magical Thinking - Joan Didion 
+- Frost - Thomas Bernhard
+
+#### Non-fiction
+
+- The Will to Change: Men, Masculinity, and Love - Bell Hooks
+- Nuclear War: A Scenario - Annie Jacobsen
+- Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI - Karen Hao
+- A People's History of the United States - Howard Zinn
+
+___
+
+The books listed below are a collection of recommendations from various fora, friends, and family.
 
 ### Fiction
 
@@ -45,11 +64,13 @@ A non exhaustive collection of books I have in my personal library that I have r
 - Pet Sematary - Stephen King
 - Satantango - László Krasznahorkai
 - Under the Midnight Sun - Keigo Higashino
+- Florida - Lauren Groff
+- Wolf in White Van - John Darnielle
+- A Supposedly Fun Thing I'll Never Do Again - David Foster Wallace
 
 ### Non-fiction
 
 - Everything Was Forever, Until It Was No More: The Last Soviet Generation - Alexei Yurchak
 - Imperium - Ryszard Kapuscinski
 - White Malice: The CIA and the Covert Recolonization of Africa - Susan Williams
-- The Will to Change: Men, Masculinity, and Love - Bell Hooks
 - Secondhand Time - Svetlana Alexievich
