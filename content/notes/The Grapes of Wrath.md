@@ -27,4 +27,4 @@ The focus on the human element in this book has left a lasting impression on me.
 - The Grapes of Wrath by John Steinbeck
 - ISBN: [978-0-14-200066-3](https://en.wikipedia.org/wiki/Special:BookSources?isbn=978-0-14-200066-3) 
 - Started: 2025-09-26
-- Finished: 2025-12-30
+- Finished: 2026-01-01

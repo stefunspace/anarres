@@ -26,7 +26,9 @@ created: 2026-01-10
 > [!Summary] Synopsis
 > In this classic German thriller, Hans Beckert, a serial killer who preys on children, becomes the focus of a massive Berlin police manhunt. Beckert's heinous crimes are so repellant and disruptive to city life that he is even targeted by others in the seedy underworld network. With both cops and criminals in pursuit, the murderer soon realizes that people are on his trail, sending him into a tense, panicked attempt to escape justice.
 
-## Personal Notes
+## Reflections
+
+**Review** ★★★★★
 
 One of my favorite movies and one of the best (read: most influential) movies ever made. I watched [[Criterion]]'s analysis over this movie, especially sound, and I learned a few interesting concepts.
 
@@ -38,3 +40,9 @@ There are four sound techniques in this movie that are now part of mainstream mo
 4. **Silence**: in this case means a completely dead soundtrack where individual sounds occur at intervals.
 
 
+## Details
+
+- Director: Fritz Lang
+- Cast: Peter Lorre, Ellen Widmann, Inge Landgut
+- Year: 1931
+- Genre: Crime, Mystery, Thriller
