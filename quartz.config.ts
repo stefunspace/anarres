@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Noto Kufi Arabic",
-        body: "Noto Kufi Arabic",
+        header: "Alegreya",
+        body: "Alegreya",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -40,14 +40,14 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#090e19",
+          light: "#03060c",
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#eae3e3",
           dark: "#ebebec",
           secondary: "#90a8ce",
           tertiary: "#84a59d",
-          highlight: "#090e1900",
+          highlight: "#03060c00",
           textHighlight: "#b3aa0288",
         },
       },
