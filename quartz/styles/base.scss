@@ -120,13 +120,17 @@ a {
     }
   }
 
-  &.external .external-icon {
+  &.external {
+    text-decoration: underline;
+  
+    &.external-icon {
     height: 1ex;
     margin: 0 0.15em;
     text-decoration: underline;
 
-    > path {
+      > path {
       fill: var(--dark);
+      }
     }
   }
 }
