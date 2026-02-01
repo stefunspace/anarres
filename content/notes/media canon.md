@@ -5,6 +5,7 @@ tags:
 created: 2026-01-31
 publish: true
 draft:
+aliases:
 ---
 ![[cliff.jpg]]
 ## Books
