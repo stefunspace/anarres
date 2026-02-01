@@ -43,9 +43,26 @@ An annual tradition of mine is to read that year's [Booker Prize](https://en.wik
 ___
 # Watching
 
-I was busy this month! One of my, rather lighthearted, goals this years is to watch every [Palme d'Or winner](https://en.wikipedia.org/wiki/Palme_d%27Or#Winners) of the Cannes Film Festival. I watched [[Brief Encounter]], [[Rome, Open City]], [[Viridiana]], [[Anatomy of a Fall]], [[Torment]], [[Taste of Cherry]], and [[Farewell My Concubine]]. 
+I was busy this month! One of my, rather lighthearted, goals this years is to watch every [Palme d'Or winner](https://en.wikipedia.org/wiki/Palme_d%27Or#Winners) of the Cannes Film Festival. I watched 
 
-Separately, I got caught up with some Oscar contenders and watched [[Sinners]], [[Sentimental Value]], [[Train Dreams]], [[Weapons]], [[Frankenstein]], and [[Bugonia]]. Hard to pick a favorite for Best Picture, but realistically, it's going to be a coin toss between [[Sinners]] and [[One Battle After Another]]. 
+- [[Brief Encounter]]
+- [[Rome, Open City]]
+- [[Viridiana]]
+- [[Anatomy of a Fall]]
+- [[Torment]]
+- [[Taste of Cherry]]
+- [[Farewell My Concubine]]
+
+Separately, I got caught up with some Oscar contenders and watched 
+
+- [[Sinners]]
+- [[Sentimental Value]]
+- [[Train Dreams]]
+- [[Weapons]]
+- [[Frankenstein]]
+- [[Bugonia]]
+
+Hard to pick a favorite for Best Picture, but realistically, it's going to be a coin toss between [[Sinners]] and [[One Battle After Another]]. 
 
 I learned what elicitation means. It's pretty wild.
 

@@ -25,9 +25,9 @@ created: 2026-01-31
 publish: true
 draft:
 ---
-## Synopsis
 
-A woman is suspected of her husband’s murder, and their blind son faces a moral dilemma as the sole witness.
+> [!Summary] Synopsis
+> A woman is suspected of her husband’s murder, and their blind son faces a moral dilemma as the sole witness.
 
 ## Personal Notes
 
@@ -36,4 +36,4 @@ The movie has great pacing, the long courthouse scenes are thrilling, no stupid 
 
 The way the boy saved the trial left me with some feeling of “oh come on”. It almost felt that it was a too cheap of an out.
 
-But maybe not knowing how it all officially went down is an indication that we need to have the wife still consider a possible murder.
+But maybe not knowing how it all officially went down is an indication that we need to have the wife still consider as a potential murderer.

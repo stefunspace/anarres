@@ -28,7 +28,7 @@ draft:
 > [!Summary] Synopsis
 > Meeting a stranger in a railway station, a woman is tempted to cheat on her husband.
 
-## ## Reflections
+## Reflections
 
 **Review** ★★★★★
 
