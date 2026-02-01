@@ -18,7 +18,12 @@ last: 2026-01-18
 imdbId:
 tags:
   - reviews
+  - movies
 accolades: "[[Palme d'Or Winners]]"
+title:
+created: 2026-01-31
+publish: true
+draft:
 ---
 ## Synopsis
 

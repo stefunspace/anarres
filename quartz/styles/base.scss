@@ -83,8 +83,8 @@ strong {
 }
 
 a {
-  font-weight: $semiBoldWeight;
-  text-decoration: none;
+  font-weight: normal;
+  text-decoration: underline;
   transition: color 0.2s ease;
   color: var(--secondary);
 
@@ -93,7 +93,7 @@ a {
   }
 
   &.internal {
-    text-decoration: none;
+    text-decoration: underline;
     background-color: var(--highlight);
     padding: 0 0.1rem;
     border-radius: 5px;

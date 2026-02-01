@@ -15,6 +15,11 @@ last: 2026-01-02
 imdbId: tt31193180
 tags:
   - reviews
+  - movies
+title:
+created: 2026-01-31
+publish: true
+draft:
 ---
 ## Synopsis
 

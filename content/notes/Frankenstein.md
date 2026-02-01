@@ -17,7 +17,11 @@ last: 2026-01-26
 imdbId:
 tags:
   - reviews
-publish:
+  - movies
+publish: true
+title:
+created: 2026-01-31
+draft:
 ---
 
 > [!Summary] Synopsis

@@ -7,6 +7,9 @@ category:
   - "[[Journal]]"
 references:
   - "[[2026]]"
+title:
+publish: true
+draft:
 ---
 I am writing my first monthly reflections on the last day of the first month of the new year for my new site. If that is not a text book example of a fresh start, I don’t know what is.
 

@@ -17,8 +17,13 @@ last: 2026-01-04
 imdbId: tt0038890
 tags:
   - reviews
+  - movies
 accolades: "[[Palme d'Or Winners]]"
 when won: "1946"
+title:
+created: 2026-01-31
+publish: true
+draft:
 ---
 > [!Summary] Synopsis
 > During the Nazi occupation of Rome in 1944, the Resistance leader, Giorgio Manfredi, is chased by the Nazis as he seeks refuge and a way to escape.

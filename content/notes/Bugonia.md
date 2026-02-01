@@ -19,12 +19,18 @@ last: 2026-01-30
 imdbId:
 tags:
   - reviews
-publish:
+  - movies
+publish: true
+title:
+created: 2026-01-31
+draft:
 ---
 
 > [!Summary] Synopsis
 > Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.
 
-## Personal Notes
+## Reflections
+
+**Review** ★★★★½
 
 They got me on this one! The fact that she was an actual alien was amazing. Great movie, enjoyed it a lot.

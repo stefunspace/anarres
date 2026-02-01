@@ -15,8 +15,13 @@ last: 2026-01-12
 imdbId: tt0055601
 tags:
   - reviews
+  - movies
 accolades: "[[Palme d'Or Winners]]"
 when won: "1961"
+title:
+created: 2026-01-31
+publish: true
+draft:
 ---
 ## Synopsis
 

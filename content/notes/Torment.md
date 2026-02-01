@@ -16,8 +16,13 @@ last: 2026-01-19
 imdbId: tt0036914
 tags:
   - reviews
+  - movies
 accolades: "[[Palme d'Or Winners]]"
 when won: "1946"
+title:
+created: 2026-01-31
+publish: true
+draft:
 ---
 ## Synopsis
 

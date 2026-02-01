@@ -29,14 +29,14 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#FFFCF0",
+          light: "#ffffff",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#363333",
           dark: "#2b2b2b",
-          secondary: "#3AA99F",
+          secondary: "#363333",
           tertiary: "#7aa298",
-          highlight: "#fffcf000",
+          highlight: "#ffffff00",
           textHighlight: "#fff23688",
         },
         darkMode: {
@@ -45,7 +45,7 @@ const config: QuartzConfig = {
           gray: "#646464",
           darkgray: "#eae3e3",
           dark: "#ebebec",
-          secondary: "#3AA99F",
+          secondary: "#eae3e3",
           tertiary: "#84a59d",
           highlight: "#100f0f00",
           textHighlight: "#b3aa0288",
