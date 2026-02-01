@@ -1,5 +1,5 @@
 ---
-title: notes and ramblings
+title: micro feed
 tags:
   - slashes
 created: 2026-01-31
