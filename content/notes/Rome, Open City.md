@@ -28,7 +28,9 @@ draft:
 > [!Summary] Synopsis
 > During the Nazi occupation of Rome in 1944, the Resistance leader, Giorgio Manfredi, is chased by the Nazis as he seeks refuge and a way to escape.
 
-## Personal Notes
+## Reflections
+
+**Review** ★★★★★
 
 Incredibly moving piece of history. I can see that this film must have had a lasting impact on post WWII Italian cinema. 
 

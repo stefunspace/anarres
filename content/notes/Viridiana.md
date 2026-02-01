@@ -23,11 +23,12 @@ created: 2026-01-31
 publish: true
 draft:
 ---
-## Synopsis
+> [!Summary] Synopsis
+> Banned in Spain and denounced by the Vatican, Luis Buñuel’s irreverent vision of life as a beggar’s banquet is regarded by many as his masterpiece. In it, novice nun Viridiana does her utmost to maintain her Catholic principles, but her lecherous uncle and a motley assemblage of paupers force her to confront the limits of her idealism.
 
-Banned in Spain and denounced by the Vatican, Luis Buñuel’s irreverent vision of life as a beggar’s banquet is regarded by many as his masterpiece. In it, novice nun Viridiana does her utmost to maintain her Catholic principles, but her lecherous uncle and a motley assemblage of paupers force her to confront the limits of her idealism. Winner of the Palme d’or at the 1961 Cannes Film Festival, VIRIDIANA is as audacious today as ever.
+## Reflections
 
-## Personal Notes
+**Review** ★★★★★
 
 This is a masterpiece - it is an exploration of the limits of human decency, Catholic dogmas, and personal obligations. Viridiana is tested multiple times throughout the film, especially sexually, but accepts that human nature is fallible. It also symbolizes the [[class antagonism]] and inherent social differences between the uncle's estate and the group of paupers. 
 

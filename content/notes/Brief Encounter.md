@@ -24,7 +24,6 @@ created: 2026-01-31
 publish: true
 draft:
 ---
-
 > [!Summary] Synopsis
 > Meeting a stranger in a railway station, a woman is tempted to cheat on her husband.
 

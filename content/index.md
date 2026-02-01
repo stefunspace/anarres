@@ -8,7 +8,6 @@ draft: false
 tags:
 aliases:
 ---
-![[home.png]]
-Welcome to my own space on the internet. Think of this site as a personal wiki and collection of random, interconnected [[writings/|posts]] and [[notes/|notes]].
+Welcome to my own space on the internet. Think of this site as a personal wiki and collection of interconnected [[writings/|posts]] and [[notes/|notes]].
 
-Take a look at my [[bookshelf]] or my takes on [[tags/movies|movies]]. Click around and get lost in my brain.
+Take a look at my [[tags/microfeed|micro feed]] for shorter blog-post type notes. Check out what I am currently [[reading]] or [[watching]].

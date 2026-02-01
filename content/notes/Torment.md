@@ -24,11 +24,13 @@ created: 2026-01-31
 publish: true
 draft:
 ---
-## Synopsis
 
-Jan-Erik Widgren meets the lonely Bertha Olsson, a woman struggling with alcoholism. Though Bertha is already linked to Caligula, Jan-Erik’s heartless teacher, she begins a relationship with the boy anyway. When Caligula learns that Jan-Erik is having an affair with Bertha, he begins to torture his student psychologically. He reserves his cruelest behavior for Bertha, however, which results in a tragic turn of events.
+> [!Summary] Synopsis
+> Jan-Erik Widgren meets the lonely Bertha Olsson, a woman struggling with alcoholism. Though Bertha is already linked to Caligula, Jan-Erik’s heartless teacher, she begins a relationship with the boy anyway. When Caligula learns that Jan-Erik is having an affair with Bertha, he begins to torture his student psychologically. He reserves his cruelest behavior for Bertha, however, which results in a tragic turn of events.
 
-## Personal Notes
+## Reflections
+
+**Review** ★★★
 
 I wasn't particularly moved after having watched this movie. The story seems somewhat off - there's this vile teacher who has a relationship with a young girl and gets envious about her having his pupil as the fuck boy. He plays mind games with him, but that's pretty much it? Caligula drives the girl to her death, and he doesn't even getting charged for that?
 

@@ -11,7 +11,7 @@ cast:
   - "[[Jacob Elordi]]"
   - "[[Mia Goth]]"
   - "[[Christoph Waltz]]"
-rating: 7
+rating: 8
 year: 2025
 last: 2026-01-26
 imdbId:
@@ -23,10 +23,11 @@ title:
 created: 2026-01-31
 draft:
 ---
-
 > [!Summary] Synopsis
 > The story follows the life of Frankenstein, an egotistical scientist whose experiment in creating new life results in dangerous consequences.
 
-## Personal Notes
+## Reflections
 
-It was a good movie, I enjoyed the philosophical nod to life, death and the origins of our mind. 
+**Review** ★★★★
+
+I enjoyed the epistemological, ethical, and metaphysical questions that Frankenstein and his creation were examining during this movie. It was a powerful display of the limits (or lack thereof) of what we call consciousness, rationality, and value of life.

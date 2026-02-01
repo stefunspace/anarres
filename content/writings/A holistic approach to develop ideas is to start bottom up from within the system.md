@@ -1,7 +1,7 @@
 ---
 tags:
   - evergreens
-publish: true
+publish: false
 created: 2026-01-14
 ---
 We start our intellectual endeavors with preconceptions that can be transformed during further inquiries and can serve as a starting point for following endeavors. This is also called a [[Hermeneutic Circle]].

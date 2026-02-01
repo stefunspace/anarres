@@ -5,7 +5,7 @@ title: A digital garden consists of ideas that grow over time
 description:
 created: 2026-01-13
 updated:
-publish: true
+publish: false
 draft: false
 aliases:
   - digital garden

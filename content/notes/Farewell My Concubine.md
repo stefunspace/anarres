@@ -23,12 +23,11 @@ created: 2026-01-31
 publish: true
 draft:
 ---
-
 > [!Summary] Synopsis
 > In an epic tale of theater, gender, love and class, two Beijing opera actors navigate political turmoil as their friendship evolves over decades.
 
-## Personal Notes
+## Reflections
 
-I’m absolutely speechless, this has been such an intense experience. It was a blend of opera and real life and you couldn’t distinguish it anymore. 
+**Review** ★★★★★
 
-The acting and scenes were fantastic. All three main actors did such a great job. You could feel their emotions. 
+I’m absolutely speechless, this has been such an intense experience. It was a blend of opera and real life and you couldn’t distinguish it anymore. The acting and scenes were fantastic. 

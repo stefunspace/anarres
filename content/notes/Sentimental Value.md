@@ -21,11 +21,12 @@ created: 2026-01-31
 publish: true
 draft:
 ---
-## Synopsis
 
+> [!Summary] Synopsis
+> Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.
 
+## Reflections
 
+**Review** ★★★★★
 
-## Personal Notes
-
-Exploring generational trauma and reconciling and moving on from it. Beautiful film, great actors.
+I resonated deeply with the topos of exploring the effects of generational trauma on a family. It was a strong display of reconciliation and healing. Beautiful film, phenomenal cast.

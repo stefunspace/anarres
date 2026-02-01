@@ -25,11 +25,12 @@ created: 2026-01-31
 publish: true
 draft:
 ---
-
 > [!Summary] Synopsis
 > A woman is suspected of her husband’s murder, and their blind son faces a moral dilemma as the sole witness.
 
-## Personal Notes
+## Reflections
+
+**Review** ★★★★½
 
 Sandra Hüller has become my favorite German actress, what a performance. 
 The movie has great pacing, the long courthouse scenes are thrilling, no stupid music added you’d expect in an American movie.
