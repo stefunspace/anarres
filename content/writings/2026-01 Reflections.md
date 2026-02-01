@@ -2,7 +2,6 @@
 created: 2026-01-31
 tags:
   - reflections
-  - monthly
 category:
   - "[[Journal]]"
 references:

@@ -6,6 +6,7 @@ created: 2026-01-31
 publish: true
 draft:
 ---
+![[cliff.jpg]]
 ## Books
 
 see also [[reading]].
