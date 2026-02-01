@@ -10,4 +10,4 @@ A page that collects my monthly (maybe more frequently) reflections of what I ha
 
 ___
 
-- [[2026-01 Beginnings]]
+- [[2026-01-30 Beginnings]]

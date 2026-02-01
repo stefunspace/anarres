@@ -1,5 +1,5 @@
 ---
-created: 2026-01-31
+created: 2026-01-30
 tags:
   - reflections
 category:
@@ -15,11 +15,13 @@ I am writing my first monthly reflections on the last day of the first month of 
 I have been trying to get into the groove of keeping a journal more diligently and reviewing what I have accomplished over a day, a week, and now, a month. This gives me an appreciation of what I have learned, experienced, and struggled with.
 
 ___
-# Paper
+# Writing
 
 I bought an Midori MD A5 notebook this year and have to admit that the paper quality is outstanding. Overall, it's a fairly simple notebook but it does its job very well. The paper does not bleed through which is something I've always wanted with thin paper. 
 
 ![[journal.jpg]]
+
+# Crafting
 
 Earlier this month, my partner and I went to our local craft shop for a sticker making workshop. I painted a Chinese lantern, and an iced coffee that looks like a Horchata. They now live in my Midori notebook.
 

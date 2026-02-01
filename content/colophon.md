@@ -8,7 +8,7 @@ updated:
 publish: true
 draft: false
 ---
-## approach
+## Approach
 
 I created this site as an antidote to soulless websites, apps, and services on the corporate web that has become an intolerable space [benefiting the few](https://en.wikipedia.org/wiki/Dead_Internet_theory). The internet and particularly social media have increasingly become an alien space to me. 
 
@@ -20,7 +20,7 @@ Similarly to other personal websites on the indie web, I adhere to the following
 - _I share what I want to share with others._
 - _There are no ads. No analytics are running in the background._
 - _I do not use AI or any other dehumanizing technology._
-## deployment
+## Deployment
 
 In the spirit of the principles of the indie web, I fully own the content of my site. Every note is written and edited from my Obsidian vault (my main 'folder' and collection of all notes). However, in order to publish this site, I use a static site generator, [Quartz](https://quartz.jzhao.xyz/), that compiles my content into a website and converts Markdown into HTML. 
 
