@@ -9,8 +9,8 @@ import { defaultImage } from "./quartz/util/og"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "<->",
-    pageTitleSuffix: "",
+    pageTitle: "</>",
+    pageTitleSuffix: "notes and ramblings",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -93,13 +93,7 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages({
-        colorScheme: "darkMode",
-        width: 800,
-        height: 400,
-        excludeRoot: false,
-        imageStructure: defaultImage,
-      }),
+      // Plugin.CustomOgImages({
     ],
   },
 }
