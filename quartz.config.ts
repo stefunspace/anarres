@@ -10,7 +10,7 @@ import { defaultImage } from "./quartz/util/og"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "</>",
-    pageTitleSuffix: "notes and ramblings",
+    pageTitleSuffix: "notes & ramblings",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
