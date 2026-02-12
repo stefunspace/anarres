@@ -3,7 +3,7 @@ title: micro feed
 tags:
   - slashes
 created: 2026-01-31
-publish: false
+publish: true
 draft:
 ---
 This feed is a tiny blog, all contained within a single page.

@@ -13,9 +13,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: " | notes & ramblings",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "en-US",
     baseUrl: "stefun.space",
     ignorePatterns: ["admin", "private", "templates", ".obsidian"],
