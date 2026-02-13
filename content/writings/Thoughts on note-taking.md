@@ -1,7 +1,7 @@
 ---
 title: Thoughts on note-taking
 tags:
-  - evergreens
+  - note/light
 created: 2026-01-24
 publish: true
 draft:
