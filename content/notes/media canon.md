@@ -7,7 +7,11 @@ publish: true
 draft:
 aliases:
 ---
-![[cliff.jpg]]
+| ![test](cliff.jpg) |
+|:--:|
+| *Twin Falls, Idaho - 2025* |
+
+
 ## Books
 
 see also [[reading]].
@@ -30,8 +34,3 @@ see also [[watching]].
 - [[Casablanca]] - Michael Curtiz, 1942
 - [[Trouble in Paradise]] - Ernst Lubitsch, 1932
 - [[M]] - Fritz Lang, 1931
-
-
-
-
-
