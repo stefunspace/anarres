@@ -10,7 +10,7 @@ draft: false
 ---
 ## Approach
 
-I created this site as an antidote to soulless websites, apps, and services on the corporate web that has become an intolerable space [benefiting the few](https://en.wikipedia.org/wiki/Dead_Internet_theory). The internet and particularly social media have increasingly become an alien space to me. 
+I created this site as an antidote to soulless websites, apps, and services on the corporate web that has become an intolerable space [benefiting the few](https://en.wikipedia.org/wiki/Dead_Internet_theory). Social media particularly has increasingly become an alien space to me. 
 
 Luckily, I have found a collection of small, independent, and personal websites on the [indie web](https://indieweb.org/) that emphasize personality over profits, agency over ads, and decentralization over corporatism. This corner of the internet is fascinating and full of life - the main reason why I wanted to create this site. My own little space.
 
@@ -22,6 +22,6 @@ Similarly to other personal websites on the indie web, I adhere to the following
 - _I do not use AI or any other dehumanizing technology._
 ## Deployment
 
-In the spirit of the principles of the indie web, I fully own the content of my site. Every note is written and edited from my Obsidian vault (my main 'folder' and collection of all notes). However, in order to publish this site, I use a static site generator, [Quartz](https://quartz.jzhao.xyz/), that compiles my content into a website and converts Markdown into HTML. 
+In the spirit of the principles of the indie web, I fully own the content of my site. Every note is written and edited from my Obsidian vault (my main 'folder' and collection of all notes). However, in order to publish this site, I use a static site generator, [Quartz](https://quartz.jzhao.xyz/), that transforms my Markdown files into a fully functioning website. 
 
-Code and content is stored on GitHub and every deploy is done through GitHub Actions. This takes a while to set up, but I am in full control. 
+Code and content is stored on GitHub and every deploy is done through GitHub Actions. This takes a while to set up, has a steep learning curve, but I am in full control. My goal is to transition at some point to a more 'advanced' static-site generator, i.e. Hugo or Jekyll.

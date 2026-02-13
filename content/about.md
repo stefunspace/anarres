@@ -10,7 +10,7 @@ draft: false
 ---
 Lifelong student and optimist living in the Pacific Northwest.
 
-I’m interested in humans, their ideas and what they craft with them. I advocate for human empowerment and emancipation from oppressive systems, of all shapes and forms, including technologies.
+I’m interested in people, ideas, and technology. I advocate for open and unrestricted access to knowledge, right to privacy, and emancipation from oppressive systems.
 
 <p align="center">↙︎↙︎↙︎</p>
 
