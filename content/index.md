@@ -8,7 +8,9 @@ draft: false
 tags:
 aliases:
 ---
-![[home.png]]
+| ![Museo Casa Estudio Diego Rivera y Frida Kahlo](home.png) |
+|:--:|
+| *Museo Casa Estudio Diego Rivera y Frida Kahlo, CDMX - 2024* |
 
 Welcome to my own space on the internet. Think of this site as a personal wiki and collection of interconnected [[writings/|posts]] and [[notes/|notes]].
 

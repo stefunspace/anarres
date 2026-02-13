@@ -7,8 +7,8 @@ publish: true
 draft:
 aliases:
 ---
-| ![test](cliff.jpg) |
-|:--:|
+|     ![test](cliff.jpg)     |
+| :------------------------: |
 | *Twin Falls, Idaho - 2025* |
 
 
