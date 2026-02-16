@@ -32,9 +32,13 @@ draft:
 
 **Review** ★★★★½
 
-Sandra Hüller has become my favorite German actress, what a performance. 
-The movie has great pacing, the long courthouse scenes are thrilling, no stupid music added you’d expect in an American movie.
+> [!Warning]- Spoilers
+> Sandra Hüller has become my favorite German actress, what a performance. 
+> 
+> The movie has great pacing, the long courthouse scenes are thrilling, no stupid music added you’d expect in an American movie. 
+>
+>The way the boy saved the trial left me with some feeling of “oh come on”. It almost felt that it was a too cheap of an out.
+>
+>But maybe not knowing how it all officially went down is an indication that we need to have the wife still consider as a potential murderer.
 
-The way the boy saved the trial left me with some feeling of “oh come on”. It almost felt that it was a too cheap of an out.
 
-But maybe not knowing how it all officially went down is an indication that we need to have the wife still consider as a potential murderer.
